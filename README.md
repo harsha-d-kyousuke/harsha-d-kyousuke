@@ -47,19 +47,19 @@ Currently Building: **Kaiden Academy** — a gamified real-life simulation learn
 
 # Featured Projects
 
-### [Kaiden Academy](https://github.com/harsha-d-kyousuke/KaidenAcademy)
+### [Kaiden Academy](https://github.com/Adithiyaaaaaaa/KaidenAcademy)
 A React + TypeScript gamified learning platform simulating campus life with coding challenges, health tracking, and quests.
 
-### [AIT](https://github.com/harsha-d-kyousuke/AIT)
+### [AIT](https://github.com/Adithiyaaaaaaa/AIT)
 Python-based automation & AI experiments.
 
-### [Bank Management System](https://github.com/harsha-d-kyousuke/BankManagementSystem)
+### [Bank Management System](https://github.com/Adithiyaaaaaaa/BankManagementSystem)
 Complete Java OOP & banking logic system.
 
-### [Fitness Checker](https://github.com/harsha-d-kyousuke/fitness-checker)
+### [Fitness Checker](https://github.com/Adithiyaaaaaaa/fitness-checker)
 Tracks food intake, workouts, cardio, and weekly physique.
 
-### [Oblivion Browser](https://github.com/harsha-d-kyousuke)
+### [Oblivion Browser](https://github.com/Adithiyaaaaaaa)
 Dark, terminal-themed Electron.js browser concept.
 
 ### Cybersecurity Projects  
@@ -84,38 +84,38 @@ Pong Game | Snake Game written in Python.
 # GitHub Charts & Stats
 
 ### GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harsha-d-kyousuke&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adithiyaaaaaaa&show_icons=true&theme=tokyonight&hide_border=true)
 
 ### GitHub Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harsha-d-kyousuke&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adithiyaaaaaaa&theme=tokyonight&hide_border=true)
 
 ### Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsha-d-kyousuke&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithiyaaaaaaa&layout=compact&theme=tokyonight&hide_border=true)
 
 ### Contribution Graph  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harsha-d-kyousuke&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adithiyaaaaaaa&theme=tokyo-night)
 
 ---
 
 # GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=harsha-d-kyousuke&theme=tokyonight&no-frame=true&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Adithiyaaaaaaa&theme=tokyonight&no-frame=true&margin-w=10)
 
 ---
 
 # Contribution Snake  
-![Snake animation](https://raw.githubusercontent.com/harsha-d-kyousuke/harsha-d-kyousuke/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/harsha-d-kyousuke/Adithiyaaaaaaa/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 # Followers & Stars  
-![GitHub Followers](https://img.shields.io/github/followers/harsha-d-kyousuke?label=Followers&style=flat)
-![GitHub Stars](https://img.shields.io/github/stars/harsha-d-kyousuke?affiliations=OWNER&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/Adithiyaaaaaaa?label=Followers&style=flat)
+![GitHub Stars](https://img.shields.io/github/stars/Adithiyaaaaaaa?affiliations=OWNER&style=flat)
 
 ---
 
 # Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithiyaa-jp-a51953303/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/harsha-d-kyousuke)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Adithiyaaaaaaa)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/jpadithiyaaschool/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jpadithiyaaschool@gmail.com)
 
